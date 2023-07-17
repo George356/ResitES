@@ -1,4 +1,4 @@
-# ESD Group 1 Project Code Tutorial
+# Project Code Tutorial
 
 ##When Testing
 These three lines need to be exacuted in python shell before the code can be used in it's entirety:
